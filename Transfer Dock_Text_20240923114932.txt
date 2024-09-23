@@ -1,0 +1,4 @@
+# Replace with your actual bot token
+TOKEN = '8151295122:AAFnNrxyW0vOOlohzpP8hm1mCOdKwcUP4Gc'
+# Admin ID
+ADMIN_ID = 6476758626
